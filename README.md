@@ -80,7 +80,7 @@ This guide intentionally avoids:
 - Most imporant is proper PERSEC, that is securing your personal information from people whom you don't want to share it
 - Avoid ecosystems like google, proton ecosystem, which in itself is pretty good (proton), but I'll redirect you to The Hated One yt video about Proton Ecosystems
 - Use Tor Browser if in need to do something sketchy or embarrasing
-- Use Monero when possible, the guide to convering money or other crypto was covered by Mental Outlaw in his yt video
+- Use Monero when possible, the guide to converting money or other crypto was covered by Mental Outlaw in his yt video
 - If possible, self host
 - Try not using your root user to do anything
 
