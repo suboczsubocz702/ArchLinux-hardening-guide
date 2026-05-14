@@ -465,7 +465,7 @@ efibootmgr --create \
 --disk /dev/nvme0n1 \
 --part 1 \
 --label "Secure-Boot" \
---loader '\EFI\Linux\arch-linux.efi'
+--loader '\EFI\Linux\arch-linux-hardened.efi'
 ```
 
 Set boot order:
